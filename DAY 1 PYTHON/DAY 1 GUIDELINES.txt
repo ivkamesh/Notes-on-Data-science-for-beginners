@@ -1,0 +1,11 @@
+DAY 1 GUIDELINES
+
+- - - inTRODUCTION TO PYTHON AND WHAT IS  DATA SCIENCE ALL ABOUT
+- - -VARIABLES
+- - -ASSIGNMENT
+- - -CONDITIONS
+- - - FUNCTIONS
+- - - LOOPS -for, while, infinite, braek, continue
+PS: Give students some classwork to do as regards the above topics covered
+- - - LISTS
+- - - DICTIONARIES
